@@ -54,7 +54,6 @@ templates/notify-portfolio.yml workflow para colocar nos outros repositórios (a
 | `excludeRepos` | nomes de repositórios que nunca viram neurônio |
 | `socials[]` | links do rodapé; entradas com `url` vazia são ignoradas. Ícones: `linkedin`, `github`, `instagram`, `x`, `youtube`, `site`, `email` |
 
-> Confira a URL do LinkedIn — ela foi preenchida como palpite.
 
 ### Metadados por repositório (opcional)
 
@@ -97,7 +96,7 @@ um cron faz o deploy sempre que a `main` muda). O GitHub Pages abaixo continua c
 ## Trocar o vídeo de abertura
 
 ```bash
-ffmpeg -i "novo-video.mp4" -vf "fps=12,scale=1280:-2" -c:v libwebp -q:v 80 public/media/frames/f_%03d.webp
+ffmpeg -i "novo-video.mp4" -vf "fps=12,scale=1920:-2:flags=lanczos,unsharp=5:5:0.6:5:5:0.0" -c:v libwebp -q:v 84 public/media/frames/f_%03d.webp
 ```
 
 Se o número de quadros mudar, ajuste `FRAMES` em `src/main.ts`. O último quadro deve ser a imagem
