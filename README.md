@@ -69,6 +69,11 @@ Crie a pasta `.portfolio/` dentro de qualquer repositório:
 As **tags** também vêm dos *topics* do repositório (Settings → Topics no GitHub); a linguagem vem
 das estatísticas do GitHub (linguagem principal + percentuais).
 
+## Domínio próprio
+
+O site oficial é **https://www.nugas.com.br** (servido de uma VPS com nginx + Traefik, fora deste repositório;
+um cron faz o deploy sempre que a `main` muda). O GitHub Pages abaixo continua como espelho.
+
 ## Publicar no GitHub Pages
 
 1. Crie o repositório (sugestão: `meu-super-portfolio`; se chamar `raphaelnugas.github.io` o site
