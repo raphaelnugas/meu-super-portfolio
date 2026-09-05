@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.log
+.env
+
+# vídeo original (os quadros já estão em public/media/frames)
+Nugas Video.mp4
+.claude/

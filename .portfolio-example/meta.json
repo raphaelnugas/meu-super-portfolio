@@ -1,0 +1,9 @@
+{
+  "title": "Nome bonito do projeto (opcional, senão usa o nome do repositório)",
+  "description": "Descrição curta exibida no card (opcional, senão usa a descrição do GitHub)",
+  "tags": ["react", "supabase", "ia"],
+  "demo": "https://exemplo.com/demo.mp4 (opcional — o padrão é .portfolio/demo.mp4 no próprio repositório)",
+  "cover": "https://exemplo.com/capa.png (opcional — o padrão é .portfolio/cover.png, senão a imagem OpenGraph do GitHub)",
+  "homepage": "https://exemplo.com (opcional)",
+  "hidden": false
+}

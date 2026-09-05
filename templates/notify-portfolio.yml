@@ -1,0 +1,24 @@
+# Copie este arquivo para `.github/workflows/notify-portfolio.yml` em QUALQUER
+# repositório seu. A cada push na main ele avisa o portfólio, que se reconstrói
+# na hora (sem esperar o cron de 6 h).
+#
+# Requer o secret PORTFOLIO_DISPATCH_TOKEN no repositório (ou como secret de
+# organização/usuário): um fine-grained PAT com permissão "Contents: read & write"
+# apenas no repositório do portfólio.
+name: Notify portfolio
+
+on:
+  push:
+    branches: [main, master]
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar rebuild do portfólio
+        run: |
+          curl -sS -X POST \
+            -H "Authorization: Bearer ${{ secrets.PORTFOLIO_DISPATCH_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/raphaelnugas/meu-super-portfolio/dispatches \
+            -d '{"event_type":"new-project","client_payload":{"repo":"${{ github.repository }}"}}'

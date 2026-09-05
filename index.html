@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Raphael Nugas — Portfólio</title>
+    <meta name="description" content="Portfólio interativo de Raphael Nugas: uma rede neural 3D onde cada neurônio é um projeto do GitHub." />
+    <meta name="theme-color" content="#03050d" />
+    <meta property="og:title" content="Raphael Nugas — Portfólio" />
+    <meta property="og:description" content="Entre na minha mente: cada neurônio é um projeto." />
+    <meta property="og:image" content="media/synapses.jpg" />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+    <link rel="preload" as="image" href="media/frames/f_001.webp" />
+  </head>
+  <body>
+    <div id="scroller">
+      <div id="stage">
+        <!-- Abertura: quadros do vídeo desenhados conforme o scroll -->
+        <canvas id="intro-canvas" aria-label="Abertura: transição do retrato para a rede de sinapses"></canvas>
+        <div id="intro-overlay">
+          <div class="intro-name">
+            <h1 id="intro-title">Raphael Nugas</h1>
+            <p id="intro-headline">Programmer · AI/ML Enthusiast</p>
+          </div>
+          <div class="intro-hint">
+            <button id="btn-play" type="button">▶ Assistir abertura</button>
+            <span class="hint-text">ou role a página para entrar na mente</span>
+            <div class="mouse" aria-hidden="true"><span></span></div>
+          </div>
+          <div id="intro-loading" aria-hidden="true"><i></i></div>
+          <div id="intro-progress" aria-hidden="true"><i></i></div>
+        </div>
+
+        <!-- Rede neural 3D -->
+        <div id="graph-wrap">
+          <div id="graph"></div>
+          <div id="hud"></div>
+          <div id="card" class="card" role="dialog" aria-live="polite"></div>
+          <footer id="footer"></footer>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

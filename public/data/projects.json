@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "login": "raphaelnugas",
+    "name": "Raphael Nugas",
+    "headline": "Programmer · AI/ML Enthusiast",
+    "bio": "Programmer | AI/ML Enthusiast | Friendly and collaborative | Open to new tools and challenges",
+    "avatar": "https://avatars.githubusercontent.com/u/82830099?v=4",
+    "blog": "www.sagun.com.br",
+    "url": "https://github.com/raphaelnugas",
+    "followers": 2
+  },
+  "projects": [
+    {
+      "id": "saas-futsal",
+      "name": "saas-futsal",
+      "title": "saas-futsal",
+      "description": "Meu SaaS para controle das partidas de uma pelada.",
+      "url": "https://github.com/raphaelnugas/saas-futsal",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "pct": 59.1
+        },
+        {
+          "name": "JavaScript",
+          "pct": 29.3
+        },
+        {
+          "name": "PowerShell",
+          "pct": 7.8
+        },
+        {
+          "name": "Shell",
+          "pct": 1.8
+        },
+        {
+          "name": "PLpgSQL",
+          "pct": 1.5
+        },
+        {
+          "name": "Batchfile",
+          "pct": 0.4
+        },
+        {
+          "name": "Dockerfile",
+          "pct": 0.1
+        },
+        {
+          "name": "CSS",
+          "pct": 0.1
+        },
+        {
+          "name": "HTML",
+          "pct": 0
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 3591,
+      "private": false,
+      "createdAt": "2026-01-02T12:38:15Z",
+      "pushedAt": "2026-06-28T08:15:36Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/saas-futsal",
+      "hidden": false
+    },
+    {
+      "id": "FalaBia",
+      "name": "FalaBia",
+      "title": "FalaBia",
+      "description": "Projeto para comunicação não verbal",
+      "url": "https://github.com/raphaelnugas/FalaBia",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "pct": 98.1
+        },
+        {
+          "name": "HTML",
+          "pct": 1.9
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 21,
+      "private": false,
+      "createdAt": "2025-10-18T04:23:29Z",
+      "pushedAt": "2025-10-18T10:50:12Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/FalaBia",
+      "hidden": false
+    },
+    {
+      "id": "glpi-mcp",
+      "name": "glpi-mcp",
+      "title": "glpi-mcp",
+      "description": "MCP to GLPI",
+      "url": "https://github.com/raphaelnugas/glpi-mcp",
+      "homepage": null,
+      "language": "Outros",
+      "languages": [],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 5,
+      "private": false,
+      "createdAt": "2025-04-04T15:17:00Z",
+      "pushedAt": "2025-04-04T15:17:00Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/glpi-mcp",
+      "hidden": false
+    },
+    {
+      "id": "mycodes-for-langflow",
+      "name": "mycodes-for-langflow",
+      "title": "mycodes-for-langflow",
+      "description": "Meus códigos para usar no langflow",
+      "url": "https://github.com/raphaelnugas/mycodes-for-langflow",
+      "homepage": null,
+      "language": "Python",
+      "languages": [
+        {
+          "name": "Python",
+          "pct": 100
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 9,
+      "private": false,
+      "createdAt": "2024-11-25T16:44:45Z",
+      "pushedAt": "2024-11-25T16:48:38Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/mycodes-for-langflow",
+      "hidden": false
+    }
+  ],
+  "generatedAt": "2026-09-04T23:36:31.707Z"
+}
