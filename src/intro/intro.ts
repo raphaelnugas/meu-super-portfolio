@@ -64,9 +64,11 @@ export function createIntro(opts: IntroOptions): Intro {
 
   // ---------- desenho ----------
   function resize() {
-    const dpr = Math.min(window.devicePixelRatio || 1, 1.5);
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
     canvas.width = Math.round(innerWidth * dpr);
     canvas.height = Math.round(innerHeight * dpr);
+    ctx.imageSmoothingEnabled = true;
+    ctx.imageSmoothingQuality = 'high';
     drawnIndex = -1;
     draw();
   }
