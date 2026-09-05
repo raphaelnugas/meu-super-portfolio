@@ -8,7 +8,6 @@
   "socials": [
     { "id": "linkedin",  "label": "LinkedIn",     "url": "https://www.linkedin.com/in/raphael-nugas-bb5931b7/" },
     { "id": "github",    "label": "GitHub",       "url": "https://github.com/raphaelnugas" },
-    { "id": "site",      "label": "sagun.com.br", "url": "https://www.sagun.com.br" },
     { "id": "email",     "label": "E-mail",       "url": "mailto:raphael.nugas@gmail.com" },
     { "id": "instagram", "label": "Instagram",    "url": "https://www.instagram.com/raphaelnugas/" },
     { "id": "x",         "label": "X / Twitter",  "url": "" },
