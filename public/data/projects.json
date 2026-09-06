@@ -11,6 +11,51 @@
   },
   "projects": [
     {
+      "id": "loja-provador-ia",
+      "name": "loja-provador-ia",
+      "title": "loja-provador-ia",
+      "description": "E-commerce de moda com provador virtual por IA — Java 21, Spring Boot 3, Thymeleaf, PostgreSQL",
+      "url": "https://github.com/raphaelnugas/loja-provador-ia",
+      "homepage": null,
+      "language": "Java",
+      "languages": [
+        {
+          "name": "Java",
+          "pct": 59.6
+        },
+        {
+          "name": "HTML",
+          "pct": 28.6
+        },
+        {
+          "name": "CSS",
+          "pct": 7.1
+        },
+        {
+          "name": "Python",
+          "pct": 2.5
+        },
+        {
+          "name": "JavaScript",
+          "pct": 2.1
+        },
+        {
+          "name": "Dockerfile",
+          "pct": 0.1
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 112,
+      "private": false,
+      "createdAt": "2026-09-06T06:42:41Z",
+      "pushedAt": "2026-09-06T07:20:02Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/loja-provador-ia",
+      "hidden": false
+    },
+    {
       "id": "saas-futsal",
       "name": "saas-futsal",
       "title": "saas-futsal",
@@ -142,5 +187,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-09-05T09:37:37.029Z"
+  "generatedAt": "2026-09-06T09:52:50.881Z"
 }
