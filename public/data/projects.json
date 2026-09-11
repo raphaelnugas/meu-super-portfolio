@@ -11,6 +11,26 @@
   },
   "projects": [
     {
+      "id": "case-de-automacao",
+      "name": "case-de-automacao",
+      "title": "case-de-automacao",
+      "description": "Case para uma entrevista",
+      "url": "https://github.com/raphaelnugas/case-de-automacao",
+      "homepage": null,
+      "language": "Outros",
+      "languages": [],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 0,
+      "private": false,
+      "createdAt": "2026-09-11T19:53:37Z",
+      "pushedAt": "2026-09-11T19:53:38Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-de-automacao",
+      "hidden": false
+    },
+    {
       "id": "loja-provador-ia",
       "name": "loja-provador-ia",
       "title": "loja-provador-ia",
@@ -187,5 +207,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-09-06T09:52:50.881Z"
+  "generatedAt": "2026-09-11T20:11:45.245Z"
 }
