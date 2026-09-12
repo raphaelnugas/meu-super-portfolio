@@ -7,7 +7,7 @@
     "avatar": "https://avatars.githubusercontent.com/u/82830099?v=4",
     "blog": "www.nugas.com.br",
     "url": "https://github.com/raphaelnugas",
-    "followers": 2
+    "followers": 3
   },
   "projects": [
     {
@@ -17,15 +17,28 @@
       "description": "Case para uma entrevista",
       "url": "https://github.com/raphaelnugas/case-de-automacao",
       "homepage": null,
-      "language": "Outros",
-      "languages": [],
+      "language": "Python",
+      "languages": [
+        {
+          "name": "Python",
+          "pct": 63.1
+        },
+        {
+          "name": "JavaScript",
+          "pct": 36.3
+        },
+        {
+          "name": "HTML",
+          "pct": 0.7
+        }
+      ],
       "tags": [],
       "stars": 0,
       "forks": 0,
-      "size": 0,
+      "size": 512,
       "private": false,
       "createdAt": "2026-09-11T19:53:37Z",
-      "pushedAt": "2026-09-11T19:53:38Z",
+      "pushedAt": "2026-09-12T00:34:50Z",
       "defaultBranch": "main",
       "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-de-automacao",
       "hidden": false
@@ -207,5 +220,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-09-11T20:11:45.245Z"
+  "generatedAt": "2026-09-12T02:03:35.150Z"
 }
