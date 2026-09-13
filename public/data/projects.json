@@ -11,36 +11,40 @@
   },
   "projects": [
     {
-      "id": "case-de-automacao",
-      "name": "case-de-automacao",
-      "title": "case-de-automacao",
-      "description": "Case para uma entrevista",
-      "url": "https://github.com/raphaelnugas/case-de-automacao",
-      "homepage": null,
+      "id": "case-comodo",
+      "name": "case-comodo",
+      "title": "case-comodo",
+      "description": "Teste de um case definido pela Comodo Planejados",
+      "url": "https://github.com/raphaelnugas/case-comodo",
+      "homepage": "https://case-comodo.vercel.app",
       "language": "Python",
       "languages": [
         {
           "name": "Python",
-          "pct": 63.1
+          "pct": 60.4
         },
         {
           "name": "JavaScript",
-          "pct": 36.3
+          "pct": 31.5
+        },
+        {
+          "name": "CSS",
+          "pct": 7.7
         },
         {
           "name": "HTML",
-          "pct": 0.7
+          "pct": 0.3
         }
       ],
       "tags": [],
       "stars": 0,
       "forks": 0,
-      "size": 512,
+      "size": 323,
       "private": false,
-      "createdAt": "2026-09-11T19:53:37Z",
-      "pushedAt": "2026-09-12T00:34:50Z",
-      "defaultBranch": "main",
-      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-de-automacao",
+      "createdAt": "2026-09-12T20:11:15Z",
+      "pushedAt": "2026-09-12T23:12:14Z",
+      "defaultBranch": "master",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-comodo",
       "hidden": false
     },
     {
@@ -220,5 +224,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-09-12T02:03:35.150Z"
+  "generatedAt": "2026-09-13T01:58:40.136Z"
 }
