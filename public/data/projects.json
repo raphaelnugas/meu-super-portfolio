@@ -11,26 +11,6 @@
   },
   "projects": [
     {
-      "id": "teclado-forense",
-      "name": "teclado-forense",
-      "title": "teclado-forense",
-      "description": "Técnica Forense para identificar o que está sendo digitado no celular sem a visão da tela",
-      "url": "https://github.com/raphaelnugas/teclado-forense",
-      "homepage": null,
-      "language": "Outros",
-      "languages": [],
-      "tags": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 0,
-      "private": false,
-      "createdAt": "2026-10-03T18:59:18Z",
-      "pushedAt": "2026-10-03T18:59:19Z",
-      "defaultBranch": "main",
-      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/teclado-forense",
-      "hidden": false
-    },
-    {
       "id": "case-comodo",
       "name": "case-comodo",
       "title": "case-comodo",
@@ -59,12 +39,32 @@
       "tags": [],
       "stars": 0,
       "forks": 0,
-      "size": 444,
+      "size": 448,
       "private": false,
       "createdAt": "2026-09-12T20:11:15Z",
-      "pushedAt": "2026-10-03T14:05:10Z",
+      "pushedAt": "2026-10-04T14:31:16Z",
       "defaultBranch": "master",
       "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-comodo",
+      "hidden": false
+    },
+    {
+      "id": "teclado-forense",
+      "name": "teclado-forense",
+      "title": "teclado-forense",
+      "description": "Técnica Forense para identificar o que está sendo digitado no celular sem a visão da tela",
+      "url": "https://github.com/raphaelnugas/teclado-forense",
+      "homepage": null,
+      "language": "Outros",
+      "languages": [],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 0,
+      "private": false,
+      "createdAt": "2026-10-03T18:59:18Z",
+      "pushedAt": "2026-10-03T18:59:19Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/teclado-forense",
       "hidden": false
     },
     {
@@ -244,5 +244,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-10-03T20:19:35.232Z"
+  "generatedAt": "2026-10-04T16:08:05.770Z"
 }
