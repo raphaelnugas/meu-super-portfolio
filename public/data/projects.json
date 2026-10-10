@@ -11,6 +11,43 @@
   },
   "projects": [
     {
+      "id": "case-comodo",
+      "name": "case-comodo",
+      "title": "case-comodo",
+      "description": "Teste de um case definido pela Comodo Planejados",
+      "url": "https://github.com/raphaelnugas/case-comodo",
+      "homepage": "https://case-comodo.vercel.app",
+      "language": "Python",
+      "languages": [
+        {
+          "name": "Python",
+          "pct": 60.4
+        },
+        {
+          "name": "JavaScript",
+          "pct": 31.5
+        },
+        {
+          "name": "CSS",
+          "pct": 7.7
+        },
+        {
+          "name": "HTML",
+          "pct": 0.3
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 484,
+      "private": false,
+      "createdAt": "2026-09-12T20:11:15Z",
+      "pushedAt": "2026-10-10T14:55:39Z",
+      "defaultBranch": "master",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-comodo",
+      "hidden": false
+    },
+    {
       "id": "FalaBia",
       "name": "FalaBia",
       "title": "FalaBia",
@@ -41,43 +78,6 @@
       "pushedAt": "2026-10-09T23:39:49Z",
       "defaultBranch": "main",
       "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/FalaBia",
-      "hidden": false
-    },
-    {
-      "id": "case-comodo",
-      "name": "case-comodo",
-      "title": "case-comodo",
-      "description": "Teste de um case definido pela Comodo Planejados",
-      "url": "https://github.com/raphaelnugas/case-comodo",
-      "homepage": "https://case-comodo.vercel.app",
-      "language": "Python",
-      "languages": [
-        {
-          "name": "Python",
-          "pct": 60.4
-        },
-        {
-          "name": "JavaScript",
-          "pct": 31.5
-        },
-        {
-          "name": "CSS",
-          "pct": 7.7
-        },
-        {
-          "name": "HTML",
-          "pct": 0.3
-        }
-      ],
-      "tags": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 477,
-      "private": false,
-      "createdAt": "2026-09-12T20:11:15Z",
-      "pushedAt": "2026-10-09T15:41:01Z",
-      "defaultBranch": "master",
-      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-comodo",
       "hidden": false
     },
     {
@@ -248,5 +248,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-10-10T03:15:49.384Z"
+  "generatedAt": "2026-10-10T16:33:49.813Z"
 }
