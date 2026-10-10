@@ -11,6 +11,39 @@
   },
   "projects": [
     {
+      "id": "FalaBia",
+      "name": "FalaBia",
+      "title": "FalaBia",
+      "description": "Projeto para comunicação não verbal",
+      "url": "https://github.com/raphaelnugas/FalaBia",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "pct": 79.8
+        },
+        {
+          "name": "CSS",
+          "pct": 19.2
+        },
+        {
+          "name": "HTML",
+          "pct": 1
+        }
+      ],
+      "tags": [],
+      "stars": 0,
+      "forks": 0,
+      "size": 59,
+      "private": false,
+      "createdAt": "2025-10-18T04:23:29Z",
+      "pushedAt": "2026-10-09T23:39:49Z",
+      "defaultBranch": "main",
+      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/FalaBia",
+      "hidden": false
+    },
+    {
       "id": "case-comodo",
       "name": "case-comodo",
       "title": "case-comodo",
@@ -170,35 +203,6 @@
       "hidden": false
     },
     {
-      "id": "FalaBia",
-      "name": "FalaBia",
-      "title": "FalaBia",
-      "description": "Projeto para comunicação não verbal",
-      "url": "https://github.com/raphaelnugas/FalaBia",
-      "homepage": null,
-      "language": "TypeScript",
-      "languages": [
-        {
-          "name": "TypeScript",
-          "pct": 98.1
-        },
-        {
-          "name": "HTML",
-          "pct": 1.9
-        }
-      ],
-      "tags": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 21,
-      "private": false,
-      "createdAt": "2025-10-18T04:23:29Z",
-      "pushedAt": "2025-10-18T10:50:12Z",
-      "defaultBranch": "main",
-      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/FalaBia",
-      "hidden": false
-    },
-    {
       "id": "glpi-mcp",
       "name": "glpi-mcp",
       "title": "glpi-mcp",
@@ -244,5 +248,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-10-09T21:59:22.125Z"
+  "generatedAt": "2026-10-10T03:15:49.384Z"
 }
