@@ -39,10 +39,10 @@
       "tags": [],
       "stars": 0,
       "forks": 0,
-      "size": 561,
+      "size": 514,
       "private": false,
       "createdAt": "2026-09-12T20:11:15Z",
-      "pushedAt": "2026-10-23T13:57:32Z",
+      "pushedAt": "2026-10-24T13:01:05Z",
       "defaultBranch": "master",
       "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/case-comodo",
       "hidden": false
@@ -248,5 +248,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-10-23T20:46:38.676Z"
+  "generatedAt": "2026-10-24T15:02:17.452Z"
 }
