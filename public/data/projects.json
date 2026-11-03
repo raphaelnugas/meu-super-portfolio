@@ -48,39 +48,6 @@
       "hidden": false
     },
     {
-      "id": "FalaBia",
-      "name": "FalaBia",
-      "title": "FalaBia",
-      "description": "Projeto para comunicação não verbal",
-      "url": "https://github.com/raphaelnugas/FalaBia",
-      "homepage": null,
-      "language": "TypeScript",
-      "languages": [
-        {
-          "name": "TypeScript",
-          "pct": 79.8
-        },
-        {
-          "name": "CSS",
-          "pct": 19.2
-        },
-        {
-          "name": "HTML",
-          "pct": 1
-        }
-      ],
-      "tags": [],
-      "stars": 0,
-      "forks": 0,
-      "size": 59,
-      "private": false,
-      "createdAt": "2025-10-18T04:23:29Z",
-      "pushedAt": "2026-10-09T23:39:49Z",
-      "defaultBranch": "main",
-      "coverUrl": "https://opengraph.githubassets.com/1/raphaelnugas/FalaBia",
-      "hidden": false
-    },
-    {
       "id": "teclado-forense",
       "name": "teclado-forense",
       "title": "teclado-forense",
@@ -248,5 +215,5 @@
       "hidden": false
     }
   ],
-  "generatedAt": "2026-11-03T00:10:32.170Z"
+  "generatedAt": "2026-11-03T13:13:15.940Z"
 }
